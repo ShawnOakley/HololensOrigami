@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Origami.unity
+    guid: bd0154f7853ee284d82f8ee50217db80
+  m_configObjects: {}
